@@ -1,6 +1,6 @@
 package Day2;
 
-public class IfDemo {
+public class If {
 	public static void main(String[] args) {
 
 		int x = 25;
