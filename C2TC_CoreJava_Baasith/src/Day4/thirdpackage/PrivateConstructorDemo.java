@@ -1,5 +1,5 @@
 //Program to demonstrate Private Constructor and Singleton class
-package com.tnsif.dayfour.thirdpackage;
+package Day4.thirdpackage;
 
 public class PrivateConstructorDemo {
 	public static void main(String s[]) {

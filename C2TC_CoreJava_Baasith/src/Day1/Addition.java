@@ -12,5 +12,7 @@ public class Addition {
 		b = sc.nextInt();
 		c = a+b;
 		System.out.print(c);
+		
+		sc.close();
 	}
 }

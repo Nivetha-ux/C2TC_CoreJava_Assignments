@@ -1,5 +1,5 @@
 ////Program to demonstrate private data members, Constructors and getter and setter methods 
-package com.tnsif.dayfour.firstpackage;
+package Day4.firstpackage;
 
 public class Person {
 	private String personName;

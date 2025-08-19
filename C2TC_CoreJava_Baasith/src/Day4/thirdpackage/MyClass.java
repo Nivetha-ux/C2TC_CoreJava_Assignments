@@ -1,17 +1,15 @@
 //Program to demonstrate singleton class
-package com.tnsif.dayfour.thirdpackage;
+package Day4.thirdpackage;
 
 public class MyClass {
 	private static MyClass obj=new MyClass();
 	private int id;
 	
-	public int getId()
-	{
+	public int getId() {
 		return id;
 	}
 	
-	public void setId(int id)
-	{
+	public void setId(int id) {
 		this.id=id;
 	}
 	
@@ -19,8 +17,7 @@ public class MyClass {
 		System.out.println("MyClass object created");		
 	}
 	
-	public static MyClass getObject() //factory method
-	{
+	public static MyClass getObject() {
 		return obj;
 	}
 
